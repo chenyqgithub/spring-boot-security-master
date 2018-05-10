@@ -7,6 +7,14 @@
     <groupId>com.master.spring</groupId>
     <artifactId>spring-master</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <!--权限模块-->
+        <module>spring-security</module>
+        <!--web模块-->
+        <module>spring-web</module>
+        <!--客户端访问次数模块-->
+        <module>spring-accessrestrictions</module>
+    </modules>
 
 
 </project>
